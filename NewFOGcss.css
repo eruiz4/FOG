@@ -1,0 +1,62 @@
+#nav-bar {
+    float: left; 
+    display: inline; 
+    border: solid; 
+    height: 400px;
+    width: 20%; 
+    margin-left: 200px;
+    margin-top: 50px; 
+    background-color: white; 
+    
+  }
+  main-content {
+    float: right; 
+    display: inline-block; 
+    height: 30px; 
+    border: solid; 
+    width: 40px; 
+  }
+  #main {
+    display: block; 
+    float: right; 
+    border: solid; 
+    height: 400px; 
+    width: 40%; 
+    overflow: auto; 
+    margin-right: 200px; 
+    margin-top: 50px; 
+    background-color: white; 
+    
+      
+  }
+  #aside {
+    display: inline-block;
+    border: solid; 
+    margin-left: 200px; 
+    margin-right: 200px; 
+    margin-top: 50px; 
+    background-color: white; 
+    
+  }
+.header {
+ border: solid; 
+ text-align: center; 
+ background-color: rgb(100, 224, 100); 
+ 
+ 
+ 
+ 
+}
+
+#canada_goose {
+    height: 100px; 
+    width: 100px; 
+}
+#About_us_goose {
+    height: 100px; 
+    width: 100px; 
+}
+#Goose_facts_goose {
+    height: 100px; 
+    width: 100px; 
+}

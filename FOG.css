@@ -1,0 +1,38 @@
+.vertical-menu {
+    width: 110px;
+    position: fixed; 
+    margin: 0; 
+    padding: 0;
+    margin-left: 5px;  
+}
+
+.vertical-menu a {
+    background-color: #eee; 
+    color: black; 
+    display: block; 
+    padding: 12px; 
+    text-decoration: none; 
+    float: left;
+    width: 50px; 
+    display: inline; 
+      
+}
+body {
+    font-size: 10px; 
+    display: block;
+    text-align: center; 
+    position: right; 
+    height: 80%; 
+    width: 700px; 
+    margin: 50px; 
+    float: right;
+    border: solid;   
+}
+.right {
+    float: right; 
+    width: 700px; 
+    padding: 30px; 
+    margin-left: 200px; 
+    margin-right:100px;
+
+}
