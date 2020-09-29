@@ -5,7 +5,7 @@
     height: 400px;
     width:8%; 
     margin-left: 200px;
-    margin-top: 300px; 
+    margin-top: 320px; 
     background-color: white; 
     
   }
@@ -18,10 +18,14 @@
     width: 64%; 
     overflow: auto; 
     margin-right: 200px; 
-    margin-top: 300px; 
+    margin-top: 320px; 
     background-color: white; 
     
       
+  }
+  .middle-bar{
+    border: solid black;
+    margin-top: 320px; 
   }
   #main img{
     height: 200px; 
